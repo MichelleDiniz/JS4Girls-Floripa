@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Webschool-io/js4girls/master/divulga/facebook/page-avatar-model.png)
+
 # JS4Girls-Floripa
 
 Conteúdo didático e arquivos desenvolvido em sala de aula.
