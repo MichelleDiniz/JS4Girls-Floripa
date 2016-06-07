@@ -9,10 +9,11 @@ O JS4Girls é um evento autônomo, gratuito e aberto para que o ensino de JavaSc
 - Javascript 
 
 Ao final do dia, as mulheres terão o entendimento básico de como construir uma página para web com:
-    - conteúdo de texto em diversas formatações;
-    - imagens e suas propriedades;
-    - videos e suas propriedades;
-    - formulários. 
+
+- conteúdo de texto em diversas formatações;
+- imagens e suas propriedades;
+- videos e suas propriedades;
+- formulários. 
 
 Também terão aprendido de forma básica como aplicar estilos na página. Aprenderão algumas propriedades de CSS para deixar sua página elegantona, bonitona e diferentona. Por último, terão aprendido o básico de Javascript, colocando em prática a validação do formulário. Além disso tudo, as mulheres terão conhecido outras mulheres que também tem interesse na área. <3
 
